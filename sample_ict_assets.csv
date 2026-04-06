@@ -1,0 +1,4 @@
+Inventory,Employee Name,Department,Details,Serial/Model,Status,Unit,Purchase Date (YYYY-MM-DD),Warranty (Months),Remarks
+CAM-001,Md. Hadisur Rahman Hadi,ICT,IP Camera Outdoor,Hikvision Outdoor,Active,Factory,2024-01-15,12,Main Gate
+LAP-001,Shahadat Hossain,ICT,Office Laptop,Dell Latitude 5410,Active,Piece,2023-11-20,24,Assigned user
+UPS-010,,ICT,Desktop UPS 600VA,APC 600VA,Active,Piece,2023-06-10,18,No employee ID yet

@@ -1,0 +1,3 @@
+ID,Employee Name,Location,Mail Address,Designation,Department,Phone,Date of Joining,Employee Category,Employee Status
+EMP001,John Doe,Dhaka,john@example.com,Manager,HR,01700000000,2024-01-15,Management,Permanent
+EMP002,Jane Smith,Chattogram,jane@example.com,Officer,Accounts,01800000000,2025-02-01,Non-Management,Probation
